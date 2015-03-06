@@ -1,0 +1,20 @@
+﻿Build started 3.12.2014 20:30:35.
+     1>Project "C:\Users\Test\Documents\FTN\Master\DOSL2\Projekti\domaci2\domaci2\domaci2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "x64\Debug\domaci2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /IC:\Users\Test\Documents\FTN\Master\DOSL2\opencv\build\x64\vc10\..\..\include /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt domaci2.cpp
+         domaci2.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Test\Documents\FTN\Master\DOSL2\Projekti\domaci2\x64\Debug\domaci2.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\Users\Test\Documents\FTN\Master\DOSL2\opencv\build\x64\vc10\lib opencv_core2410d.lib opencv_imgproc2410d.lib opencv_highgui2410d.lib opencv_ml2410d.lib opencv_video2410d.lib opencv_features2d2410d.lib opencv_calib3d2410d.lib opencv_objdetect2410d.lib opencv_contrib2410d.lib opencv_legacy2410d.lib opencv_flann2410d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\domaci2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Test\Documents\FTN\Master\DOSL2\Projekti\domaci2\x64\Debug\domaci2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Test\Documents\FTN\Master\DOSL2\Projekti\domaci2\x64\Debug\domaci2.lib" /MACHINE:X64 x64\Debug\domaci2.obj
+         domaci2.vcxproj -> C:\Users\Test\Documents\FTN\Master\DOSL2\Projekti\domaci2\x64\Debug\domaci2.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Test\Documents\FTN\Master\DOSL2\Projekti\domaci2\x64\Debug\domaci2.exe;#1" /manifest x64\Debug\domaci2.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\domaci2.unsuccessfulbuild".
+         Touching "x64\Debug\domaci2.lastbuildstate".
+     1>Done Building Project "C:\Users\Test\Documents\FTN\Master\DOSL2\Projekti\domaci2\domaci2\domaci2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.05
